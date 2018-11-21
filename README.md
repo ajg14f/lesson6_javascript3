@@ -13,8 +13,7 @@ Alvaro Gonzalez
 In this assignment we created a photo gallery with interactive buttons to show different images on the page.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://ajg14f.github.io/lesson6_javascript3/
 
 ### Lessons Learned in the Assignment:
 1. I learned how to clone nodes
